@@ -1,4 +1,6 @@
 # วิธีรัน Kanok App
+[คลิปตัวอย่างการใช้งาน](https://youtu.be/w4qy4m1k2XQ)
+
 ## สิ่งที่ต้องเตรียม
 1. MySQL https://www.apachefriends.org/download.html
 2. Go https://go.dev/
